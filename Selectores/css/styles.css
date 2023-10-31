@@ -1,0 +1,31 @@
+
+*{
+    color: black;
+}
+
+h1 {
+    color: red;
+}
+
+ul{
+    font-family: sans-serif;
+}
+
+ol{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.normal{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+
+#po{
+    color: yellowgreen;
+    font-weight: bold;
+    
+}
+
+#p2{
+    color: blue;
+}
